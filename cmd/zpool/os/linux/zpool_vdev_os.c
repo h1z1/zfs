@@ -74,7 +74,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <unistd.h>
-#include "zpool_util.h"
+#include "../../zpool_util.h"
 #include <sys/zfs_context.h>
 
 #include <scsi/scsi.h>

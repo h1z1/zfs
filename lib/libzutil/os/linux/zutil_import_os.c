@@ -67,7 +67,7 @@
 #include <libzutil.h>
 #include <libnvpair.h>
 
-#include "zutil_import.h"
+#include "../../zutil_import.h"
 
 #ifdef HAVE_LIBUDEV
 #include <libudev.h>
